@@ -1,0 +1,16 @@
+{
+"companyName": "Refugio Sanchez",
+"productName": "unit 1 - player control",
+"productVersion": "1.0",
+"dataUrl": "player control.data.unityweb",
+"wasmCodeUrl": "player control.wasm.code.unityweb",
+"wasmFrameworkUrl": "player control.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
